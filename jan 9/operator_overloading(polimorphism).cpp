@@ -11,7 +11,7 @@ A ob;
 ob.value=value+obj.value;
 return ob;
 }
-
+//op
 
 };
 int main()
